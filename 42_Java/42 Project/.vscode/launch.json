@@ -3,6 +3,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ft_str_is_printable",
+            "request": "launch",
+            "mainClass": "J02.ex06.ft_str_is_printable",
+            "projectName": "42 Project_e126e1fa"
+        },
+        {
+            "type": "java",
+            "name": "ft_str_is_uppercase",
+            "request": "launch",
+            "mainClass": "J02.ex05.ft_str_is_uppercase",
+            "projectName": "42 Project_e126e1fa"
+        },
+        {
+            "type": "java",
+            "name": "ft_str_is_numeric",
+            "request": "launch",
+            "mainClass": "J02.ex03.ft_str_is_numeric",
+            "projectName": "42 Project_e126e1fa"
+        },
+        {
+            "type": "java",
+            "name": "ft_strcpy",
+            "request": "launch",
+            "mainClass": "J02.ex00.ft_strcpy",
+            "projectName": "42 Project_e126e1fa"
+        },
+        {
+            "type": "java",
             "name": "ft_sort_int_tab",
             "request": "launch",
             "mainClass": "J01.ex08.ft_sort_int_tab",
@@ -62,7 +90,7 @@
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}",
-            "cwd": "${workspaceFolder}/42 Project/src",
+            "cwd": "${workspaceFolder}/src",
             "projectName": "42 Project"
         }
     ]
