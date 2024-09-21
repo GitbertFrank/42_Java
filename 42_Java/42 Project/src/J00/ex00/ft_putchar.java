@@ -1,3 +1,4 @@
+package J00.ex00;
 public class ft_putchar {
     public static void putchar(char c) {
         System.out.print(c);

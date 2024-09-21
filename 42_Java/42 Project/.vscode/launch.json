@@ -1,0 +1,56 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ft_strlen",
+            "request": "launch",
+            "mainClass": "J01.ex06.ft_strlen",
+            "projectName": "42 Project_e126e1fa"
+        },
+        {
+            "type": "java",
+            "name": "ft_putstr",
+            "request": "launch",
+            "mainClass": "J01.ex05.ft_putstr",
+            "projectName": "42 Project_e126e1fa"
+        },
+        {
+            "type": "java",
+            "name": "ft_ultimate_div_mod",
+            "request": "launch",
+            "mainClass": "J01.ex04.ft_ultimate_div_mod",
+            "projectName": "42 Project_e126e1fa"
+        },
+        {
+            "type": "java",
+            "name": "ft_div_mod",
+            "request": "launch",
+            "mainClass": "J01.ex03.ft_div_mod",
+            "projectName": "42 Project_e126e1fa"
+        },
+        {
+            "type": "java",
+            "name": "ft_ft",
+            "request": "launch",
+            "mainClass": "J01.ex00.ft_ft",
+            "projectName": "42 Project_e126e1fa"
+        },
+        {
+            "type": "java",
+            "name": "ft_is_negative",
+            "request": "launch",
+            "mainClass": "J00.ex04.ft_is_negative",
+            "projectName": "42 Project_e126e1fa"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "cwd": "${workspaceFolder}/42 Project/src",
+            "projectName": "42 Project"
+        }
+    ]
+  }
+  

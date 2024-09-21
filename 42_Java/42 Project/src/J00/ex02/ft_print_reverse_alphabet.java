@@ -1,3 +1,4 @@
+package J00.ex02;
 public class ft_print_reverse_alphabet {
     public static void print_reverse_alphabet(){
         System.out.print("zyxwvutsrqponmlkjihgfedcba");
